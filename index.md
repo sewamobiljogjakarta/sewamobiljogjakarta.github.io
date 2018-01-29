@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Rental Mobil Jogja
 
-You can use the [editor on GitHub](https://github.com/sewamobiljogjakarta/sewamobiljogjakarta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Rental Mobil Jogja Harga Sewa Murah Terbaru 2018 kami – Sebelum membahas tentang jasa rental kendaraan mobil dan tour wisata CV Tugu Tour & Rent Car, ada baiknya kita mengenal dahulu [provinsi Yogyakarta](https://en.wikipedia.org/wiki/Special_Region_of_Yogyakarta). Sebuah provinsi kecil yang ada di Negara Indonesia. Kecil namun cantik, ungkapan itu kiranya tidak berlebihan untuk Yogyakarta Hadiningrat ini.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Jenis Mobil Yang Kami Sewakan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Jenis Mobil adalah Avanza
+2. Jenis Mobil adalah Camry
+3. Jenis Mobil adalah Fortuner
+4. Jenis Mobil adalah Alphard
+5. Jenis Mobil adalah Elf Shoft
+6. Jenis Mobil adalah Elf Long
+7. Jenis Mobil adalah [sewa Hiace jogja](https://cvtugu.com/blog/rental-mobil/rental-hiace-jogja/)
+8. Jenis Mobil adalah Innova
 
-```markdown
-Syntax highlighted code block
+### Alasan Rental Ke Kami
+- PERJALANAN YANG NYAMAN
+- BERPENGALAMAN DI BIDANG SEWA MOBIL
+- KOMITMEN RENTAL AVANZA Lombok
+- BIAYA SEWA MOBIL Lombok TERJANGKAU
+- DRIVER PROFESIONAL
+- TEPAT WAKTU
 
-# Header 1
-## Header 2
-### Header 3
+### Tentang Kami
+Selamat datang di website [rental mobil Jogja](https://www.cvtugurentcar.com/) yang bisa Anda percaya ini. Lombok TOUR AND RENT CAR adalah rental mobil di Yogyakarta yang berizin resmi. Kami menyediakan berbagai macam jenis mobil dengan kondisi prima yang dapat Anda sewa baik untuk 12 jam, harian, ataupun mingguan. Armada kami terdiri dari berbagai merek dan tipe kendaraan, seperti Toyota Avanza, Toyota Kijang Innova, KIA Pregio, Toyota Alphard dan masih banyak lagi. 
 
-- Bulleted
-- List
+Baca juga : [rental avanza di kec kraton Jogja](https://rentalmobiljogjaaa.wordpress.com/2017/12/07/rental-mobil-avanza-kraton-2018-murah/)
 
-1. Numbered
-2. List
+### Kontak Kami
+Sewa & Rental Mobil Jogja Murah
+Selamat datang di website rental mobil Lombok yang terpercaya. Lombok TOUR AND RENT CAR adalah rental mobil di Lombok (Yogyakarta) yang berizin resmi. Kami menyediakan berbagai macam jenis mobil dengan kondisi prima serta model terbaru yang dapat Anda sewa baik untuk 12 jam, harian, ataupun mingguan. Armada kami terdiri dari berbagai merek dan tipe kendaraan, seperti Toyota Avanza, Toyota Kijang Innova, KIA Pregio, Toyota Alphard dan masih banyak lagi.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sewamobiljogjakarta/sewamobiljogjakarta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kenapa harus memilih kami  : Sudah berizin resmi, Driver sudah berpengalaman puluhan tahun, Harga Murah, Antar Jemput langsung dari tempat Anda baik Hotel, Stasiun, Terminal dan Bandara, Sudah ribuan wisatawan yang telah menggunakan jasa [kami](https://cvtugurentaljogja.tumblr.com/post/168001802201/kenalan-denga-rental-mobil-yogyakarta-cv-tugu).
